@@ -116,7 +116,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/Vivek Akhilesh Pandey
+link: https://linkedin.com/Vivek Akhilesh Pandey
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
@@ -171,7 +171,7 @@ firstTitle: I'm
 secondTitle: Vivek Pandey,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: Backend
+firstTitle: full stack
 secondTitle: developer
 
 -- lib.hero-ui-base-text-wrapper:
@@ -207,7 +207,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/Vivek Akhilesh Pandey
+link: https://linkedin.com/Vivek Akhilesh Pandey
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
@@ -215,7 +215,7 @@ link: https://twitter.com/pandey15711
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/v1i2v3e4k5
+link: https://github.com/V1I2V3E4K5-hub
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
