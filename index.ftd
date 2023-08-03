@@ -132,7 +132,7 @@ link: https://instagram.com/pandeyvivek_2712
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:vivek.pandey15711@sakec.ac.in
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
@@ -171,7 +171,7 @@ firstTitle: I'm
 secondTitle: Vivek Pandey,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: full stack
+firstTitle: Full stack
 secondTitle: developer
 
 -- lib.hero-ui-base-text-wrapper:
