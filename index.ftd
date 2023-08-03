@@ -42,7 +42,7 @@ cta-item2-link: /portfolio/resume
 
 -- toast.stack:
 title: Hello, Everyone I am an IT engineering specifications in backend 
-link: https://github.com/v1i2v3e4k5
+link:https://github.com/V1I2V3E4K5-hub
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -124,7 +124,7 @@ link: https://twitter.com/pandey15711
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/v1i2v3e4k5
+link:https://github.com/V1I2V3E4K5-hub
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
